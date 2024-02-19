@@ -1,0 +1,15 @@
+/*Hoja de estilo personalizada */
+/* CSS: cascading style sheet*/
+
+/* Selector de etiqueta*/
+/*va a ganar la especificidad , le gana a lo general */
+
+body {
+    background-color:#9B444F;
+    color: #BFA5A6;
+    font-family: fantasy,centurygothic, sans-serif;
+}
+
+main{
+    text-align: center;
+}
