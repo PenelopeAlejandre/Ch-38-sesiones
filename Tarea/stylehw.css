@@ -1,0 +1,25 @@
+body {
+    background-image: url(./assets/images/fondo.jpg);
+
+        font-family: fantasy,centurygothic;
+    h1{color:#CD5C5C;
+        text-align:center;
+        background-color: #FFDAB9;}
+    
+    h2{color:#CD5C5C;
+            text-align:center;
+            background-color: #FFDAB9;}
+
+    img {float: left;}
+    margin-left: 80px;
+    margin-right: 80px;
+    p{text-align:center; 
+    font-family:centurygothic;
+    color:white;}
+    ul{color: white;
+        text-align:center; 
+        font-family:centurygothic;}
+    ol{color: white;
+        text-align:center; 
+        font-family:centurygothic;}
+}
